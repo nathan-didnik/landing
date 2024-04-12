@@ -1,0 +1,77 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: "Open Sans", sans-serif;
+  	font-weight: 400;
+}
+h1, h2, h3{
+	font-family: "teko", serif;
+  	font-weight: 400;
+}
+a{
+	text-decoration: none;
+}
+.margin-bottom{
+	margin-bottom: 60px;
+}
+#our-specialities{
+	margin: 30px 10px;
+}
+
+
+
+
+body {
+	text-align: center;
+	background-color: #ffecf2;
+}
+
+
+h2{
+	color: #E493B3; /* pink */
+	font-size: 75px;
+	font-weight: 900;
+	font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 75;
+}
+
+
+h3{
+	color: darkgrey;
+	font-size: 45px;
+}
+
+a{
+	text-decoration: none;
+	color: #8E7AB5;
+	text-align: center;
+	font-size: 5px;
+	text-decoration: none;
+	font-family: "Teko", sans-serif;
+  	font-weight: 300;
+  	font-size: 30px;
+  	text-align: center;
+}
+
+a:hover{
+	color: #5C4884; /* dark purple */
+}
+
+h4{
+	  font-family: "Teko", sans-serif;
+  	font-weight: 400;
+  	font-size: 35px;
+  	color: black;
+}
+
+
